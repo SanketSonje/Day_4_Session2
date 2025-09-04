@@ -1,4 +1,5 @@
 JavaScript Basics: Session 2
+
 Overview
 This session introduces the fundamentals of JavaScript programming, focusing on types and control flow. You will practice with variables, strings, arrays, loops, and conditionals through hands-on exercises.
 
